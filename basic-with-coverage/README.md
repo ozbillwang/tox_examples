@@ -13,7 +13,7 @@ docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 
 Make sure the sonarqube is running
 
-http://<ip>:9000
+`http://<ip>:9000`
 
 username and password is `admin`
 
