@@ -1,4 +1,4 @@
-from .squarer import square
+from squarer import square
 
 
 def test_square():
